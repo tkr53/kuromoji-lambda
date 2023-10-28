@@ -1,0 +1,23 @@
+{
+  "name": "kuromoji-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkr53/kuromoji-lambda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkr53/kuromoji-lambda/issues"
+  },
+  "homepage": "https://github.com/tkr53/kuromoji-lambda#readme",
+  "dependencies": {
+    "kuromojin": "^3.0.0"
+  }
+}
